@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1567705614 source:c:\users\iván duarte\documents\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"duarte.h"
+
+1567642198 source:c:\users\iván duarte\documents\tp1\funcionesduarte.c
+	"funcionesDuarte.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1567642112 c:\users\iván duarte\documents\tp1\funcionesduarte.h
+
+1567642346 source:c:\users\iván duarte\documents\tp1\funciones.h
+
+1567705592 source:c:\users\iván duarte\documents\tp1\duarte.c
+	"duarte.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1567706982 c:\users\iván duarte\documents\tp1\duarte.h
+
+1567644087 c:\users\iván duarte\documents\tp1\duarte.c
+	"duarte.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1567643905 source:c:\users\iván duarte\documents\tp1\duarte.h
+
