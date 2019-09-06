@@ -12,8 +12,8 @@ int main()
     float resultadoRes;
     float resultadoDiv;
     float resultadoMult;
-    long long factoA;
-    long long factoB;
+    long double factoA;
+    long double factoB;
 
     do{
         switch(menuOpciones(&a, &b))
@@ -56,7 +56,7 @@ int main()
                     printf("\nError, los factoriales de los numeros negativos no existen\n");
                 }else
                 {
-                    printf("\nEl factorial de %.2f es: %lli y el de %.2f es: %lli\n", a, factoA, b, factoB);
+                    printf("\nEl factorial de %.2f es: %.2Lf y el de %.2f es: %.2Lf\n", a, factoA, b, factoB);
                 }
                 break;
             case '8':
