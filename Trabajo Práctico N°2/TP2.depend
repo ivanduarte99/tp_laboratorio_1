@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1570141061 source:c:\users\iván duarte\documents\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"arrayEmployees.h"
+
+1570143136 c:\users\iván duarte\documents\tp2\arrayemployees.h
+
+1570142979 source:c:\users\iván duarte\documents\tp2\functionsemployee.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"arrayEmployees.h"
+
